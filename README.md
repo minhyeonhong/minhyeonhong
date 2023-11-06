@@ -8,7 +8,9 @@
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-07396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-007396?style=flat&logo=PHP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F96666?style=flat&logo=Laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
